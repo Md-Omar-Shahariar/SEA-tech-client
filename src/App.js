@@ -19,7 +19,6 @@ function App() {
         <Route path="/signUp" element={<SignUp></SignUp>}></Route>
       </Routes>
       <Footer></Footer>
-      ashih
     </div>
   );
 }
